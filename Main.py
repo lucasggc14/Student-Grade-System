@@ -38,3 +38,6 @@ while True:
             print("\nAlunos:")
             for nome in alunos:
                 print("-", nome)
+    elif opcao == "4":
+        print("Encerrando o programa...")
+    break
