@@ -1,6 +1,7 @@
 Student Grade System
 
 Description
+
 A simple Python system to manage students and their grades.
 
 You can add students, store their grades, calculate the average, and check if they passed or failed. All data is handled in memory during execution.
